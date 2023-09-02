@@ -1,0 +1,8 @@
+{
+  "name": "AudioSwitch",
+  "description": "Switch Audio Output",
+  "uuid": "audioswitch@arieldimiro.de",
+  "shell-version": [
+    "42"
+  ]
+}
